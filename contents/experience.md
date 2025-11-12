@@ -1,21 +1,19 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+2019年8月–  现  在    厦门大学 信息学院 软件工程系 教授
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+2022年4月– 2024年4月  龙岩学院 数学与信息工程学院  院长
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+2020年4月– 2022年4月  龙岩人才和大数据发展集团  副总经理（挂职）
 
----
+  	分管集团数字经济板块，从无到有构建龙岩数字产业发展有限公司，整合各方数据要素资源，推动和主导了龙岩数字普惠金融平台、龙岩“人才e家”、龙岩市虚拟数字产业园、国资人才库和信息库、国企招聘系统等多个基础性、公共性服务平台建设。
+    
+2020年4月– 2024年4月  龙岩厦门大学产教融合研究院 协调/研究员
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+    参与研究院筹建、改制和建设，对接龙岩市政府及相关部门，引进厦门大学的学科力量和优势，促成厦门大学、龙岩学院与当地企业建立产学研用合作机制，打造了集“科研+应用”于一体的多层次人才队伍和业务团队，承担“龙岩市惠企政策智能化推送和精准匹配系统”等项目。
+    
+2019年9月– 2020年1月  厦门大学 马来西亚分校 教授（英文授课）
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+2017年9月 - 2018年9月  澳大利亚 昆士兰大学 公派留学/访问学者
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+2013年8月– 2019年7月  厦门大学 国家示范性软件学院 副教授
+
+2009年7月 - 2013年7月  厦门大学 国家示范性软件学院 助理教授
